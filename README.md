@@ -1,5 +1,5 @@
 # Retromite
-The power of protomp, for all users
+The power of protomp, for all users (DLL Estable en la carpeta release)
 # Que es?
 La nueva forma para manipular la CMD/Bash programada en C#. Sirve en todos los lenguajes de programación que puedan usar librerías DLL. Recomendado utilizarla con c#.
 # Licencias
