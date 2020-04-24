@@ -1,0 +1,5 @@
+C:\Users\ASIER\Documents\Retromite\Retromite\obj\Debug\Retromite.csprojResolveAssemblyReference.cache
+C:\Users\ASIER\Documents\Retromite\Retromite\bin\Debug\Retromite.dll
+C:\Users\ASIER\Documents\Retromite\Retromite\bin\Debug\Retromite.pdb
+C:\Users\ASIER\Documents\Retromite\Retromite\obj\Debug\Retromite.dll
+C:\Users\ASIER\Documents\Retromite\Retromite\obj\Debug\Retromite.pdb
